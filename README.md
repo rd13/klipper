@@ -37,3 +37,6 @@ rotation_distance = <full_steps_per_rotation> * <microsteps> / <steps_per_mm>
 ```
 ((360 / 1.8) * 16) / 409 = 7.82
 ```
+
+### Calculate pressure_advance
+### Calculate input_shaping
