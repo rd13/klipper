@@ -28,14 +28,14 @@ BED_MESH_CALIBRATE
 SAVE_CONFIG
 
 
-### Hemera Rotation Distance (E-Steps Calculation)
+### Hemera Initial Rotation Distance (E-Steps Calculation)
 
 ```
 rotation_distance = <full_steps_per_rotation> * <microsteps> / <steps_per_mm>
 ```
 
 ```
-((360 / 1.8) * 16) / 409 = 7.82
+((360 / 1.8) * 16) / 397 = 8.060
 ```
 
 ### Calculate pressure_advance
